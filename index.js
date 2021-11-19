@@ -13,3 +13,4 @@ app.get("*", (req, res) => {
 });
 
 app.listen(8888, () => console.log("API started on port 8888"))
+;
